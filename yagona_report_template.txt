@@ -1,0 +1,15 @@
+📋 YAGONA SOLIQ HISOBOTI – {oy} OYI
+
+💼 Firma nomi: {firma_nomi} 👤 Raxbar: {rahbar} 📅 Hisobot davri: 2025-yil {oy} 📌 Hisobot turi: Aylanma tushumdan hisoblangan yagona soliq
+
+🔁 Aylanma tushum (yil boshidan olingan jami aylanma): {yil_boshidan_aylanma} so‘m
+
+🔁 Aylanma tushum (oy davomida olingan jami aylanma): {shu_oy_aylanma} so‘m
+
+📊 Qo‘llanilgan soliq stavkasi: {soliq_turi_yagona} (amaldagi qonunchilikka asosan)
+
+📉 Hisob-kitob formulasi Oy uchun: Yagona soliq = Aylanma tushum × Soliq stavkasi 📐 {shu_oy_aylanma} × {soliq_turi_yagona} = {yagona_soliq} so‘m
+
+💸 Yakuniy natija – To‘lanishi lozim bo‘lgan yagona soliq miqdori: ➡️ {yagona_soliq} so‘m
+
+📎 Eslatma: Ushbu hisob-kitob O‘zbekiston Respublikasining amaldagi soliq kodeksi asosida amalga oshirilgan bo‘lib, faqatgina yagona soliq to‘lovchilar (masalan, kichik tadbirkorlik subyektlari) uchun mo‘ljallangan. 🕒 Hisobot topshirish muddati tugashidan oldin Davlat soliq xizmati organlariga taqdim etilishi zarur.
